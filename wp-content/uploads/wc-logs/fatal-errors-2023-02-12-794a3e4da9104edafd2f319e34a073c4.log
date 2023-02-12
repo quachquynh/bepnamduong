@@ -172,3 +172,43 @@ Stack trace:
 #5 {main}
   thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
 
+2023-02-12T08:42:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:42:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:42:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:43:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
