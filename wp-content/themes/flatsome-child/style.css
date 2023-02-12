@@ -33,6 +33,9 @@ Version: 3.0
 .product-small .box-text {
 	text-align: center;
 }
+.product-small .box-text a {
+	display: block;
+}
 .price span {
 	font: bold 16px/26px arial;
     color: red;
@@ -52,15 +55,33 @@ Version: 3.0
     background: linear-gradient(to bottom,#ffa103,#fb7d0f);
     color: #fff;
 }
-.col-products-list 
 .col-products-list h3 {
-	background: #fff;
+    background: #fff;
     margin-bottom: 3px;
-    padding: 15px 20px;
+    padding: 10px 20px;
     border-bottom: 0;
+    height: 49px;
+}
+.col-products-list h3 span {
+	border-bottom: 0;
+}
+.col-products-list .section-title-container {
+	margin-bottom: 1px;
 }
 .product-small.box {
 	background: #fff;
+}
+.product-small.box .box-image {
+    padding: 10%;
+}
+.row-title-products-list .col-inner {
+	position: relative;
+}
+.row-title-products-list .col-inner p {
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    margin-bottom: 0;
 }
 @media only screen and (max-width: 48em) {
 /*************** ADD MOBILE ONLY CSS HERE  ***************/
