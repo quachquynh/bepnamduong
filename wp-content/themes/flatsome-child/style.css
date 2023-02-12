@@ -30,6 +30,38 @@ Version: 3.0
 	background: #fff;
     border: 1px solid #fe5f00;
 }
+.product-small .box-text {
+	text-align: center;
+}
+.price span {
+	font: bold 16px/26px arial;
+    color: red;
+    font-size: 18px;
+}
+.button-footer-product span {
+	height: 40px;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    width: 50%;
+    float: left;
+    line-height: 40px;
+    border-right: 1px solid #ddd;
+    border-radius: 0 0 0 4px;
+}
+.button-footer-product span:hover {
+    background: linear-gradient(to bottom,#ffa103,#fb7d0f);
+    color: #fff;
+}
+.col-products-list 
+.col-products-list h3 {
+	background: #fff;
+    margin-bottom: 3px;
+    padding: 15px 20px;
+    border-bottom: 0;
+}
+.product-small.box {
+	background: #fff;
+}
 @media only screen and (max-width: 48em) {
 /*************** ADD MOBILE ONLY CSS HERE  ***************/
 

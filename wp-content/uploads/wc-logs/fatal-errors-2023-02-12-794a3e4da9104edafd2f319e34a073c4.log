@@ -212,3 +212,60 @@ Stack trace:
 #5 {main}
   thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
 
+2023-02-12T08:43:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:44:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:45:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:45:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:45:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php on line 27 and at least 2 expected in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php:121
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\themes\flatsome-child\functions.php(27): add_filter()
+#1 C:\xampp\htdocs\bepnamduongvn\wp-settings.php(585): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\bepnamduongvn\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\bepnamduongvn\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\bepnamduongvn\wp-includes\plugin.php on line 121
+
+2023-02-12T08:52:33+00:00 CRITICAL Uncaught RuntimeException: Lỗi lưu hành động: Database error. in C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:86
+Stack trace:
+#0 C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(36): ActionScheduler_ActionFactory->single('woocommerce_run...', Array, 1676191954, 'woocommerce-db-...')
+#3 C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(44): as_schedule_single_action(1676191954, 'woocommerce_run...', Array, ' in C:\xampp\htdocs\bepnamduongvn\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 86
+

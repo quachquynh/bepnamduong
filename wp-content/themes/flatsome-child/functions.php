@@ -21,7 +21,18 @@ function product_metabox( $meta_boxes ) {
 /*
  * WC Hooks
  */
-function product_code() {
-
+remove_action( 'woocommerce_shop_loop_item_title','woocommerce_template_loop_product_title', 10 );
+add_action('woocommerce_shop_loop_item_title', 'abChangeProductsTitle', 10 );
+function abChangeProductsTitle() {
+    echo '<h3><a href="'.get_the_permalink().'">' . rwmb_meta( 'product-code' ) . '</a></h3>';
 }
-add_filter();
+
+function add_button_product_item() {?>
+	<a href="<?php get_the_permalink(get_the_ID());?>">
+		<div class="button-footer-product">
+        <span>XEM HÀNG</span>
+        <span>MUA HÀNG</span>
+    </div>
+	</a>
+<?php }
+add_action('flatsome_product_box_after', 'add_button_product_item');
