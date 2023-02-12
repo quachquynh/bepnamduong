@@ -1,0 +1,37 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+#masthead {
+	background: url(http://localhost/bepnamduongvn/wp-content/uploads/2023/02/BG-top-1.jpg);
+}
+.header-nav li a {
+	color: #fff;
+}
+.home h2 {
+	font: bold 16px arial;
+    color: #555;
+    padding-left: 15px;
+    border-left: 5px solid #ffa103;
+    border-bottom: 0;
+}
+.home h2 span {
+	border-bottom: 0;
+	text-transform: none;
+}
+.hot-products {
+
+}
+.hot-products-list {
+	background: #fff;
+    border: 1px solid #fe5f00;
+}
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
